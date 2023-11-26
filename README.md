@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emad
-- 👀 I’m interested in coding and data analytics
+- 👀 I’m interested in ML and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rezaei1580@gmail.com
