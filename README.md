@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emad
+- 👋 Hi, I’m Eddie
 - 👀 I’m interested in ML and Data Science
 - 📫 How to reach me rezaei1580@gmail.com
 
